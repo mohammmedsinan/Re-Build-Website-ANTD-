@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/antd-re-build/static/css/main.61ab1f1a.chunk.css",
+    "main.js": "/antd-re-build/static/js/main.b61d7a35.chunk.js",
+    "main.js.map": "/antd-re-build/static/js/main.b61d7a35.chunk.js.map",
+    "runtime-main.js": "/antd-re-build/static/js/runtime-main.550f52a3.js",
+    "runtime-main.js.map": "/antd-re-build/static/js/runtime-main.550f52a3.js.map",
+    "static/css/2.c02757eb.chunk.css": "/antd-re-build/static/css/2.c02757eb.chunk.css",
+    "static/js/2.16ae5138.chunk.js": "/antd-re-build/static/js/2.16ae5138.chunk.js",
+    "static/js/2.16ae5138.chunk.js.map": "/antd-re-build/static/js/2.16ae5138.chunk.js.map",
+    "index.html": "/antd-re-build/index.html",
+    "static/css/2.c02757eb.chunk.css.map": "/antd-re-build/static/css/2.c02757eb.chunk.css.map",
+    "static/css/main.61ab1f1a.chunk.css.map": "/antd-re-build/static/css/main.61ab1f1a.chunk.css.map",
+    "static/js/2.16ae5138.chunk.js.LICENSE.txt": "/antd-re-build/static/js/2.16ae5138.chunk.js.LICENSE.txt",
+    "static/media/Ele.53edcc5a.png": "/antd-re-build/static/media/Ele.53edcc5a.png",
+    "static/media/hero.fd8cd9c3.png": "/antd-re-build/static/media/hero.fd8cd9c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.550f52a3.js",
+    "static/css/2.c02757eb.chunk.css",
+    "static/js/2.16ae5138.chunk.js",
+    "static/css/main.61ab1f1a.chunk.css",
+    "static/js/main.b61d7a35.chunk.js"
+  ]
+}
